@@ -6,7 +6,7 @@ const DefaultLayout = () => {
   return (
     <>
       <NavBar/>
-      <h1>SOY EL DefaultLayout</h1>
+      
       
     </>
   )
