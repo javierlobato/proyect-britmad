@@ -1,11 +1,12 @@
-import DefaultLayout from "./components/templates/DefaultLayout";
-//import Icon from "./components/atoms/Icon/Icon"
+import Header from "./components/header/header";
+
+
+
 
 function App() {
   return(
     <>
-    <DefaultLayout/>
-  
+      <Header/>
   
     </>
   )
