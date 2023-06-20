@@ -8,8 +8,8 @@ const QuienesSomos = () => {
 
         <section className="quienessomos">
             <div className="quienessomos__bannertop">
-                <div className='bannertop'></div>
-                <div className='bannerbott'></div>
+                <div className='barratop'></div>
+                <div className='barrabott'></div>
             </div>
 
             <div className="quienessomos__quienessomos">
@@ -42,6 +42,10 @@ const QuienesSomos = () => {
                 </div>
             </div>
             <div className="quienessomos__bannerbott">
+                <div className='banner__bot'>
+                    <div className='circulonaranja'></div>
+                    <div className='circuloblanco'></div>
+                </div>
 
             </div>
 
