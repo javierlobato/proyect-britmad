@@ -1,5 +1,5 @@
-import './header.css';
 import logoBritmad from "./../../assets/logoBritmad.png"
+import './header.css';
 
 
 
@@ -11,9 +11,9 @@ const Header = () => {
                     <img className="logo" src={logoBritmad} alt="logoBrimat" />
                 </div>
                 <ul className="nav__links">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="#">QUIENES SOMOS</a></li>
+                    <li><a href="#">SERVICIOS</a></li>
+                    <li><a href="#">CONTACTO</a></li>
                 </ul>
             </nav>            
         </header>
