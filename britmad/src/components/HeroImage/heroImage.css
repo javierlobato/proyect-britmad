@@ -62,11 +62,19 @@
     bottom: 41.11%;
     position: absolute;
     z-index: 3;
+    
 }
 
 .heroimage__image img {
     width: 80%;
     height: auto;
     border: 4px solid white;
-    border-radius: 100%;    
+    border-radius: 100%;
+    
+        
+}
+
+.heroimage__image img:hover {
+    transition: transform 0.3s ;
+    transform: scale(1.1);
 }

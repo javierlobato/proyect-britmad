@@ -27,6 +27,11 @@
   font-size: 3em;
 }
 
+.quienessomos h1:hover {
+  transition: transform 0.3s ;
+  transform: scale(1.1);
+}
+
 .quienessomos p {
   font-family: "Inter", "sans-serif";
   font-size: 1.3em;

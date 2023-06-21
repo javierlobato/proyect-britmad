@@ -4,6 +4,8 @@ import QuienesSomos from "./components/QuienesSomos/QuienesSomos";
 import Servicios from "./components/Servicios/Servicios";
 import Footer from "./components/Footer/Footer";
 
+import "./app.css";
+
 
 
 

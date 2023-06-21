@@ -6,3 +6,8 @@
   letter-spacing: 0.155em;
   text-align: center;
 }
+
+.titulo:hover {
+  transition: transform 0.3s ;
+  transform: scale(1.1);
+}
