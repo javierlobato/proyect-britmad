@@ -1,7 +1,8 @@
-import Footer from "./components/Footer/Footer";
+import Header from "./components/header/header";
 import HeroImage from "./components/HeroImage/HeroImage";
 import QuienesSomos from "./components/QuienesSomos/QuienesSomos";
-import Header from "./components/header/header";
+import Servicios from "./components/Servicios/Servicios";
+import Footer from "./components/Footer/Footer";
 
 
 
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <HeroImage/>
       <QuienesSomos/>
+      <Servicios/>
       <Footer/>
   
     </>
