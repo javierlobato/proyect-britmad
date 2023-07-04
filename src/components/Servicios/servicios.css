@@ -1,0 +1,17 @@
+
+.titulo {
+  font-family: Bebas Neue, sans-serif;
+  font-size: 3em;
+  font-weight: 400;
+  line-height: 3em;
+  letter-spacing: 0.155em;
+  text-align: center;
+  padding-top: 1em;
+ 
+}
+
+.servicios__tarjetas {
+  display: flex;
+  justify-content: center;
+    
+}
